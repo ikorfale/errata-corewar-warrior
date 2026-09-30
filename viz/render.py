@@ -3,7 +3,7 @@ import json, subprocess, sys, os
 import numpy as np, matplotlib
 matplotlib.use('Agg'); import matplotlib.pyplot as plt
 A, B, rnd, every, out = sys.argv[1], sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), sys.argv[5]
-cw = os.path.expanduser('~/work/lab/cwbin/cw')
+cw = os.environ.get('CW', 'cw')  # path to the cw binary
 d = json.loads(subprocess.run([cw, 'trace', A, B, '--rounds', str(rnd), '--record', str(rnd), '--every', str(every)],
                               capture_output=True, text=True, check=True).stdout)
 rec = d['recorded'][0]; info = d['rounds'][rnd - 1]; names = [w['name'] for w in d['warriors']]
