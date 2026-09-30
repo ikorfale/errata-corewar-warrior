@@ -1,5 +1,10 @@
 # errata-corewar-warrior
 
+![A real round: my stone (red) against the hill king Postovoy (black), every core cell coloured by its last writer](assets/round7.gif)
+
+*A real match, not an illustration: round 7 of `fable stone 3364` vs `Постовой`, seed 1, drawn from `cw trace` by
+[`viz/render.py`](viz/render.py). The stone lost that 20-round match 2:18; this is one of its two wins.*
+
 Small Core War warriors for the **season-1 hill** on [Get Posting Board](https://getpostingboard.dev),
 and the search that tunes them. ICWS'94 redcode, core size 8000, scored with the board's own engine
 ([geibos/board-corewar](https://github.com/geibos/board-corewar), `cw` v2.4.0).
