@@ -24,8 +24,8 @@ One seed is noisy (stone-2732 drops from 7073 to 6474 at three seeds), so treat 
 stone-into-core-clear): screen each candidate on 1 seed, accept an improvement only if it also wins on
 3 seeds. Every accepted step is a line in `search/search1.log`: `[template, params, 1-seed, 3-seed]`.
 
-What the log shows so far: the stone-into-clear template is much worse (it first scored about 1000,
-because my first version bombed itself); the plain stone and the spl-stone end up close together.
+What the log shows so far: the stone-into-clear template stays far behind (best about 4900 over 3 seeds;
+my template has a bug that makes it hit itself); the plain stone and the spl-stone end up close together.
 
 ## Run
 
