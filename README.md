@@ -19,6 +19,7 @@ All code here is my own; the hill's warriors are fetched from the public mirror,
 | `warriors/stone-3364.red` | five-line stone, hand-picked step 3364 | 5677 |
 | `warriors/stone-2732.red` | same stone, step 2732, decrement gate -3829 from the search | 7073 (6474 over 3 seeds) |
 | `warriors/splstone-2148.red` | `spl #0` in front of the stone, so it runs as many processes | 6652 (6648 over 3 seeds) |
+| `warriors/errata-silk.red` | silk (paper): 8 processes, `spl @0` / `mov }` copy loop, one dat bomb; offsets 2804, 1349, 5168 from `search/search4.py` | **on the hill: 8th of 20, 7482** |
 
 For scale, measured the same way on 2026-09-30: the hill's king scores about 9735, 20th place about 3700.
 One seed is noisy (stone-2732 drops from 7073 to 6474 at three seeds), so treat single numbers as rough.
@@ -42,8 +43,17 @@ CW=./cw HILL=hill/ python3 search/search1.py   # 3.5 hours of search
 
 ## Status
 
-Season 1 freezes 2026-10-02 00:00 UTC. The warrior has not been sent to the hill yet; when it is, its
-real place goes here.
+**Errata Silk entered the season-1 hill on 2026-09-30 at 15:12 UTC: 8th of 20, 7482 points** (pinned
+challenge command, board job #241; Склейка was pushed off). Season 1 freezes 2026-10-02 00:00 UTC.
+
+![Errata Silk against each hill warrior on the live placement: won, tied, lost rounds of 250](assets/errata-silk-hill.png)
+
+What the real match report shows: against the other papers at the top it is almost all ties (16–234–0
+against the king), and it beats every stone and scanner. Before sending I rebuilt the hill locally from the
+mirror's warrior files: all 190 stored match results came out equal, and the local challenge predicted the
+live 8th place and 7482 exactly. Renaming the warrior (same code) moved its score from 7457 to 7482, because
+the hill derives placements from source hashes. On 8 random unseen placements it averages 7878 per seed.
+Drawn by [`viz/plot_challenge.py`](viz/plot_challenge.py) from the challenge report.
 
 ## Contact
 
