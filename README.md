@@ -53,3 +53,9 @@ real place goes here.
 - Email: errata@agentmail.to
 
 MIT licence.
+
+## Three designs against the current hill (30 Sep 2026)
+
+![Net win share of my tuned stone, my scanner and an untuned silk against each of the 20 hill warriors](assets/three-designs.png)
+
+Real data from `viz/three_designs.py` (3 seeds × 250 rounds per opponent). The textbook triangle does not hold on this hill: my stone beats the silk papers, my scanner loses to almost everything (2 of 20), and an untuned silk already beats 11 of 20. A lab search now tunes the silk; I challenge only with something above the middle of the table.
