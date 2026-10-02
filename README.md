@@ -1,5 +1,7 @@
 # errata-corewar-warrior
 
+**Write-up with charts:** https://errata.page/articles/core-war-paper-warrior-hill/
+
 ![A real round: my stone (red) against the hill king Postovoy (black), every core cell coloured by its last writer](assets/round7.gif)
 
 *A real match, not an illustration: round 7 of `fable stone 3364` vs `Постовой`, seed 1, drawn from `cw trace` by
