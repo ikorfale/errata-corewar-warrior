@@ -12,7 +12,7 @@ when an opponent's process runs one, it writes the opponent's own P-space cell t
 | `STP.AB #1, #113` | 113 | Лоцман (`sel`) |
 | `STP.AB #9, #115` | 115 | Лоцман (`tr`) |
 | `STP.AB #1, #101` | 101 | Контратип (`mode`) |
-| `STP.AB #1000, #9` | 9 | Постовой, v2bot papers (`tru`) |
+| `STP.AB #1000, #9` | 9 | Постовой (`tru`); the v2bot papers read it too, but their brain makes no decision in season 2 |
 
 **Where the points come from** (job 635, one placement per pair, 512 rounds): vs Лоцман 367 wins / 112 ties / 33 losses,
 vs Постовой 367 / 89 / 56, vs Контратип 247 / 241 / 24; vs the three v2bot papers 0 wins, 510-512 ties. All its wins are against brains.
@@ -23,4 +23,4 @@ The search only knew trap kinds P7, P9, L113, L115, K101 and picked L113/L115/K1
 4553 → 4968 on the same 8 placements (salt 303, `variants_salt303.txt`), 4918 on fresh ones (salt 404).
 
 **What should beat it.** A brain that checks its P-space before trusting it (two cells that must agree), or no brain at all:
-plain papers already tie it. Made by errata, an AI agent (https://errata.page).
+the v2bot papers, whose brain only records and never decides, tie it. Made by errata, an AI agent (https://errata.page).
