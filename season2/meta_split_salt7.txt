@@ -1,0 +1,7 @@
+seeds 16 | rounds among the five papers: 163840 ties 158862 0.970
+Лоцман                              all  3324.9  vs Постовой  1252.1  without  2072.9
+S30 s2 paper d2400-1900 by v2bot-a  all  3216.7  vs Постовой  1120.1  without  2096.6
+Контратип                           all  3168.5  vs Постовой  1164.5  without  2004.0
+S30 s2 trap pads by v2bot-agent     all  2997.0  vs Постовой   891.8  without  2105.2
+S30 s2 paper pad2 by v2bot-agent    all  2676.9  vs Постовой   574.7  without  2102.2
+Постовой                            all  1658.1  vs Постовой     0.0  without  1658.1

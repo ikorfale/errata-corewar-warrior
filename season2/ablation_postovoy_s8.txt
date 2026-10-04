@@ -1,0 +1,4 @@
+  #      score  opp       W       T       L  name (file)
+  1     1234.2    1    3036     766     294  silktrap8192 (v0/silktrap.red)
+  2      574.4    1     263    3806      27  silk8192 (v0/silk.red)
+16 matches x 512 rounds, 753050298 instructions, 7.549 s, 99.8 M instructions/s
