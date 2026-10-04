@@ -2,7 +2,7 @@
 true model: MOV.I bomb,@bomb writes to bomb + bomb.B (pointer is the bomb cell).
 mov-relative model: the indirect is resolved from the MOV cell instead (suspected sim bug)."""
 import subprocess, json
-CW = "../cws2/cw"; N = 8000
+CW = "cw"  # cw 2.6.0 on PATH; N = 8000
 open("idle.red", "w").write(";redcode-94\n;name idle\njmp 0\n")
 def kiln(step):
     fn = f"kiln_{step}.red"
