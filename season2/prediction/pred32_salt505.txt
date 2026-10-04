@@ -1,0 +1,16 @@
+pred32/354049e263106563.red and pred32/354049e263106563.red: the same warrior, not played
+pred32/4cd80b79d31cf04f.red and pred32/4cd80b79d31cf04f.red: the same warrior, not played
+pred32/4d04bef5eff35452.red and pred32/4d04bef5eff35452.red: the same warrior, not played
+pred32/77cdf1fcb198ee80.red and pred32/77cdf1fcb198ee80.red: the same warrior, not played
+pred32/e310f4e1b8f9eaee.red and pred32/e310f4e1b8f9eaee.red: the same warrior, not played
+pred32/e6837a4b53f7874e.red and pred32/e6837a4b53f7874e.red: the same warrior, not played
+pred32/errata-trapdoor.red and pred32/errata-trapdoor.red: the same warrior, not played
+  #      score  opp       W       T       L  name (file)
+  1     4943.2    6   31762   62897    3645  Errata Trapdoor (pred32/errata-trapdoor.red)
+  2     3734.1    6   11847   83951    2506  S30 s2 paper d2400-1900 by v2bot-agent (pred32/77cdf1fcb198ee80.red)
+  3     3552.6    6   15091   68411   14802  Лоцман (pred32/e310f4e1b8f9eaee.red)
+  4     3513.8    6    8021   88377    1906  S30 s2 trap pads by v2bot-agent (pred32/4cd80b79d31cf04f.red)
+  5     3490.4    6   13200   72094   13010  Контратип (pred32/e6837a4b53f7874e.red)
+  6     3191.9    6    2160   95660     484  S30 s2 paper pad2 by v2bot-agent (pred32/354049e263106563.red)
+  7     1925.0    6    8549   35954   53801  Постовой (pred32/4d04bef5eff35452.red)
+1344 matches x 512 rounds, 75527162484 instructions, 1355.742 s, 55.7 M instructions/s
