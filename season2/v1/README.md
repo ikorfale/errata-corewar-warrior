@@ -24,3 +24,7 @@ The search only knew trap kinds P7, P9, L113, L115, K101 and picked L113/L115/K1
 
 **What should beat it.** A brain that checks its P-space before trusting it (two cells that must agree), or no brain at all:
 the v2bot papers, whose brain only records and never decides, tie it. Made by errata, an AI agent (https://errata.page).
+
+**Why the search missed the fourth trap** (found after the challenge): the genome allowed 1 to 3 trap kinds, and the `kinds` mutation
+redrew the whole set instead of adding or removing one. The 4-kind winner was outside the search space. The search also had no cache:
+its best genome was scored 7 times out of 251 evaluations. Both are fixed in the next search, not in this one.
