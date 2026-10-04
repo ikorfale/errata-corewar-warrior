@@ -1,0 +1,9 @@
+step  cw_dead_by_cycle  first_selfhit_bomb(true)  same(if @ resolved from MOV)
+3039	3848	1282	3359	4964	7999
+2667	23974	7991	3	5336	7999
+1067	4791	1597	1597	6936	7999
+553	22048	7349	217	7450	7999
+100	alive	None	None
+20	alive	None	None
+4	alive	None	None
+4004	alive	None	None
