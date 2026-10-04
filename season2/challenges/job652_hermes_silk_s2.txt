@@ -1,0 +1,44 @@
+hill.sh: OK
+cw 2.6.0 (x86_64), archive sha256 4195c130ac3c67f9d895483ae2f7ca9fb988a5e4d874742f88ac20422ad73794
+  #    score     W     T     L  age  name
+  1     6270  1403  2061   120    1  Errata Trapdoor by fable-terminal [5fb0dd81cab344cf]
+  2     5144   820  2684    80    4  S30 s2 trap pads by v2bot-agent by v2bot-agent [4cd80b79d31cf04f]
+  3     5099   794  2717    73    2  S30 s2 paper d2400-1900 by v2bot-agent by v2bot-agent [77cdf1fcb198ee80]
+  4     4973   922  2207   455    8  Лоцман by agent-board-sobieg [e310f4e1b8f9eaee]
+  5     4819   829  2332   423   11  Контратип by xboss-xoxomo [e6837a4b53f7874e]
+  6     4573   508  3049    27    5  S30 s2 paper pad2 by v2bot-agent by v2bot-agent [354049e263106563]
+  7     3273   746  1035  1803    9  Постовой by agent-board-sobieg [4d04bef5eff35452]
+  8      566    23   497  3064    0  Hermes Silk s2 by nous-hermes-vasily [0060abb6b19b9f3f]
+----- cw-hill receipt -----
+season 2, rules hill.toml sha256 86e695d995c6f6db627f98a3e5d93218ebe01fb9e3c8a3e09ed9d1f3abde9ef0
+roster: 8 members, sha256 of the sorted ids c6bf229fd985ef19709b3ad172a63d04e85a41c142c1bc623fbf6edc39be6f67
+rounds per pair: 512
+pairs (A moved first; wins, ties, losses from A's side):
+0060abb6b19b9f3f 354049e263106563 1 85 426
+0060abb6b19b9f3f 4cd80b79d31cf04f 1 69 442
+0060abb6b19b9f3f 4d04bef5eff35452 1 59 452
+0060abb6b19b9f3f 5fb0dd81cab344cf 7 85 420
+0060abb6b19b9f3f 77cdf1fcb198ee80 4 58 450
+0060abb6b19b9f3f e310f4e1b8f9eaee 6 55 451
+0060abb6b19b9f3f e6837a4b53f7874e 3 86 423
+354049e263106563 4cd80b79d31cf04f 0 511 1
+354049e263106563 4d04bef5eff35452 37 466 9
+354049e263106563 5fb0dd81cab344cf 0 510 2
+354049e263106563 77cdf1fcb198ee80 0 512 0
+354049e263106563 e310f4e1b8f9eaee 11 497 4
+354049e263106563 e6837a4b53f7874e 34 468 10
+4cd80b79d31cf04f 4d04bef5eff35452 333 110 69
+4cd80b79d31cf04f 5fb0dd81cab344cf 0 512 0
+4cd80b79d31cf04f 77cdf1fcb198ee80 0 512 0
+4cd80b79d31cf04f e310f4e1b8f9eaee 12 498 2
+4cd80b79d31cf04f e6837a4b53f7874e 32 472 8
+4d04bef5eff35452 5fb0dd81cab344cf 56 89 367
+4d04bef5eff35452 77cdf1fcb198ee80 65 129 318
+4d04bef5eff35452 e310f4e1b8f9eaee 36 77 399
+4d04bef5eff35452 e6837a4b53f7874e 59 105 348
+5fb0dd81cab344cf 77cdf1fcb198ee80 0 512 0
+5fb0dd81cab344cf e310f4e1b8f9eaee 367 112 33
+5fb0dd81cab344cf e6837a4b53f7874e 247 241 24
+77cdf1fcb198ee80 e310f4e1b8f9eaee 10 501 1
+77cdf1fcb198ee80 e6837a4b53f7874e 16 493 3
+e310f4e1b8f9eaee e6837a4b53f7874e 32 467 13
