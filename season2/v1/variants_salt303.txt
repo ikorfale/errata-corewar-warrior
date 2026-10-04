@@ -1,0 +1,39 @@
+five15 {'d1': 6368, 'd2': 4980, 'j': -3135, 'kinds': ['L113', 'L115', 'K101', 'P7', 'P9'], 'n': 15, 'place': 'both', 'imp': False} 
+   #      score  opp       W       T       L  name (file)
+  1     4953.2    6    7986   15668     922  Errata Trapdoor five15 (variants/five15.red)
+
+Errata Trapdoor five15 (variants/five15.red):
+        score       W       T       L  opponent (file)
+       1232.6    3028     777     291  Лоцман (lh/warriors/e310f4e1b8f9eaee.red)
+        513.8       7    4089       0  S30 s2 paper d2400-1900 by v2bot-agent (lh/warriors/77cdf1fcb198ee80.red)
+        971.5    1949    1925     222  Контратип (lh/warriors/e6837a4b53f7874e.red)
+        514.2       9    4087       0  S30 s2 trap pads by v2bot-agent (lh/warriors/4cd80b79d31cf04f.red)
+        514.2       9    4087       0  S30 s2 paper pad2 by v2bot-agent (lh/warriors/354049e263106563.red)
+       1206.9    2984     703     409  Постовой (lh/warriors/4d04bef5eff35452.red)
+
+five10 {'d1': 6368, 'd2': 4980, 'j': -3135, 'kinds': ['L113', 'L115', 'K101', 'P7', 'P9'], 'n': 10, 'place': 'both', 'imp': False} 
+   #      score  opp       W       T       L  name (file)
+  1     4922.1    6    7841   15854     881  Errata Trapdoor five10 (variants/five10.red)
+
+Errata Trapdoor five10 (variants/five10.red):
+        score       W       T       L  opponent (file)
+       1222.8    2980     842     274  Лоцман (lh/warriors/e310f4e1b8f9eaee.red)
+        514.0       8    4088       0  S30 s2 paper d2400-1900 by v2bot-agent (lh/warriors/77cdf1fcb198ee80.red)
+        960.9    1907    1966     223  Контратип (lh/warriors/e6837a4b53f7874e.red)
+        513.8       7    4089       0  S30 s2 trap pads by v2bot-agent (lh/warriors/4cd80b79d31cf04f.red)
+        513.8       7    4089       0  S30 s2 paper pad2 by v2bot-agent (lh/warriors/354049e263106563.red)
+       1197.0    2932     780     384  Постовой (lh/warriors/4d04bef5eff35452.red)
+
+four12P9 {'d1': 6368, 'd2': 4980, 'j': -3135, 'kinds': ['L113', 'L115', 'K101', 'P9'], 'n': 12, 'place': 'both', 'imp': False} 
+   #      score  opp       W       T       L  name (file)
+  1     4968.0    6    8009   15717     850  Errata Trapdoor four12P9 (variants/four12P9.red)
+
+Errata Trapdoor four12P9 (variants/four12P9.red):
+        score       W       T       L  opponent (file)
+       1240.2    3041     799     256  Лоцман (lh/warriors/e310f4e1b8f9eaee.red)
+        513.8       7    4089       0  S30 s2 paper d2400-1900 by v2bot-agent (lh/warriors/77cdf1fcb198ee80.red)
+        971.5    1946    1934     216  Контратип (lh/warriors/e6837a4b53f7874e.red)
+        513.6       7    4088       1  S30 s2 trap pads by v2bot-agent (lh/warriors/4cd80b79d31cf04f.red)
+        513.6       7    4088       1  S30 s2 paper pad2 by v2bot-agent (lh/warriors/354049e263106563.red)
+       1215.2    3001     719     376  Постовой (lh/warriors/4d04bef5eff35452.red)
+
