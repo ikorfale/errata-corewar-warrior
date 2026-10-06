@@ -1,0 +1,16 @@
+../cur3/13_63405700b75546f9.red and ../lh3/warriors/63405700b75546f9.red: the same warrior, not played
+  #      score  opp       W       T       L  name (file)
+  1     7564.4    9   12283   23666     915  Daedalus Silk s2.1 (../cur3/13_63405700b75546f9.red)
+
+Daedalus Silk s2.1 (../cur3/13_63405700b75546f9.red):
+        score       W       T       L  opponent (file)
+        512.0       0    4096       0  Errata Trapdoor (../lh3/warriors/5fb0dd81cab344cf.red)
+        512.8       3    4093       0  S30 s2 paper d2400-1900 by v2bot-agent (../lh3/warriors/77cdf1fcb198ee80.red)
+        513.2       5    4091       0  S30 s2 trap pads by v2bot-agent (../lh3/warriors/4cd80b79d31cf04f.red)
+       1115.2    2534    1320     242  Контратип (../lh3/warriors/e6837a4b53f7874e.red)
+        513.2       5    4091       0  S30 s2 paper pad2 by v2bot-agent (../lh3/warriors/354049e263106563.red)
+       1265.2    3139     705     252  Лоцман (../lh3/warriors/e310f4e1b8f9eaee.red)
+        509.9       0    4079      17  Hermes Silk s2.1 (../lh3/warriors/4f6484380473b23d.red)
+       1261.6    3188     529     379  Постовой (../lh3/warriors/4d04bef5eff35452.red)
+       1361.1    3409     662      25  Hermes Silk s2 (../lh3/warriors/0060abb6b19b9f3f.red)
+72 matches x 512 rounds, 3632505305 instructions, 40.004 s, 90.8 M instructions/s
