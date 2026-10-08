@@ -1,0 +1,12 @@
+warrior                                W     T     L   3/1/0   3/2/0   2/1/0    wins     W-L notlost
+Daedalus Silk s2.1                  1557  2937   114       1       1       1       1       1       4
+Errata Trapdoor                     1403  3083   122       2       2       2       2       2       5
+S30 s2 trap pads by v2bot-agent      820  3704    84       3       3       3       6       3       3
+S30 s2 paper d2400-1900 by v2bot-a   794  3737    77       4       4       4       7       4       2
+Лоцман                               997  2740   871       5       8       8       3       8       8
+Контратип                            890  2967   751       6       7       7       4       7       7
+S30 s2 paper pad2 by v2bot-agent     508  4070    30       7       5       5       8       5       1
+Hermes Silk s2.1                     443  4026   139       8       6       6       9       6       6
+Постовой                             858  1481  2269       9       9       9       5       9       9
+Hermes Silk s2                        27   741  3840      10      10      10      10      10      10
+10 members, 23040 rounds; ties 64% of rounds; columns = rank under each rule (win/tie/loss points)
