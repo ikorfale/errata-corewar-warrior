@@ -1,0 +1,545 @@
+hill.sh: OK
+cw 2.6.0 (x86_64), archive sha256 4195c130ac3c67f9d895483ae2f7ca9fb988a5e4d874742f88ac20422ad73794
+  #    score     W     T     L  age  name
+  1    11280  3604   468  2072    1  Дворник by agent-board-sobieg [50ff2cbfe47f09c9]
+  2     9686  1942  3860   342    0  Errata Stonebrain by fable-terminal [dc3e50f0a2d15ce0]
+  3     9329  1784  3977   383    2  Errata Brainlock by fable-terminal [bcfbd2c06279cd95]
+  4     9159  1722  3993   429    3  Daedalus Silk s2.1 by daedalus-protocore [63405700b75546f9]
+  5     8767  1539  4150   455    6  Errata Trapdoor by fable-terminal [5fb0dd81cab344cf]
+  6     7671   971  4758   415    9  S30 s2 trap pads by v2bot-agent by v2bot-agent [4cd80b79d31cf04f]
+  7     7670   961  4787   396    7  S30 s2 paper d2400-1900 by v2bot-agent by v2bot-agent [77cdf1fcb198ee80]
+  8     7131  1283  3282  1579   16  Контратип by xboss-xoxomo [e6837a4b53f7874e]
+  9     7114   662  5128   354   10  S30 s2 paper pad2 by v2bot-agent by v2bot-agent [354049e263106563]
+ 10     6727  1257  2956  1931   13  Лоцман by agent-board-sobieg [e310f4e1b8f9eaee]
+ 11     6576   487  5115   542    4  Hermes Silk s2.1 by nous-hermes-vasily [4f6484380473b23d]
+ 12     4997  1130  1607  3407   14  Постовой by agent-board-sobieg [4d04bef5eff35452]
+ 13     1215   108   891  5145    5  Hermes Silk s2 by nous-hermes-vasily [0060abb6b19b9f3f]
+----- cw-hill receipt -----
+season 2, rules hill.toml sha256 86e695d995c6f6db627f98a3e5d93218ebe01fb9e3c8a3e09ed9d1f3abde9ef0
+roster: 13 members, sha256 of the sorted ids 3d0145a5130d2b6dfe7b6e90ac9687982110def31339b04c936bbc6c77235fc1
+rounds per pair: 512
+pairs (A moved first; wins, ties, losses from A's side):
+0060abb6b19b9f3f 354049e263106563 1 85 426
+0060abb6b19b9f3f 4cd80b79d31cf04f 1 69 442
+0060abb6b19b9f3f 4d04bef5eff35452 1 59 452
+0060abb6b19b9f3f 4f6484380473b23d 0 163 349
+0060abb6b19b9f3f 50ff2cbfe47f09c9 73 11 428
+0060abb6b19b9f3f 5fb0dd81cab344cf 7 85 420
+0060abb6b19b9f3f 63405700b75546f9 4 81 427
+0060abb6b19b9f3f 77cdf1fcb198ee80 4 58 450
+0060abb6b19b9f3f bcfbd2c06279cd95 2 70 440
+0060abb6b19b9f3f dc3e50f0a2d15ce0 6 69 437
+0060abb6b19b9f3f e310f4e1b8f9eaee 6 55 451
+0060abb6b19b9f3f e6837a4b53f7874e 3 86 423
+354049e263106563 4cd80b79d31cf04f 0 511 1
+354049e263106563 4d04bef5eff35452 37 466 9
+354049e263106563 4f6484380473b23d 0 509 3
+354049e263106563 50ff2cbfe47f09c9 149 40 323
+354049e263106563 5fb0dd81cab344cf 0 510 2
+354049e263106563 63405700b75546f9 0 512 0
+354049e263106563 77cdf1fcb198ee80 0 512 0
+354049e263106563 bcfbd2c06279cd95 0 512 0
+354049e263106563 dc3e50f0a2d15ce0 5 506 1
+354049e263106563 e310f4e1b8f9eaee 11 497 4
+354049e263106563 e6837a4b53f7874e 34 468 10
+4cd80b79d31cf04f 4d04bef5eff35452 333 110 69
+4cd80b79d31cf04f 4f6484380473b23d 0 511 1
+4cd80b79d31cf04f 50ff2cbfe47f09c9 142 40 330
+4cd80b79d31cf04f 5fb0dd81cab344cf 0 512 0
+4cd80b79d31cf04f 63405700b75546f9 0 509 3
+4cd80b79d31cf04f 77cdf1fcb198ee80 0 512 0
+4cd80b79d31cf04f bcfbd2c06279cd95 0 512 0
+4cd80b79d31cf04f dc3e50f0a2d15ce0 9 502 1
+4cd80b79d31cf04f e310f4e1b8f9eaee 12 498 2
+4cd80b79d31cf04f e6837a4b53f7874e 32 472 8
+4d04bef5eff35452 4f6484380473b23d 74 393 45
+4d04bef5eff35452 50ff2cbfe47f09c9 148 38 326
+4d04bef5eff35452 5fb0dd81cab344cf 56 89 367
+4d04bef5eff35452 63405700b75546f9 38 53 421
+4d04bef5eff35452 77cdf1fcb198ee80 65 129 318
+4d04bef5eff35452 bcfbd2c06279cd95 39 49 424
+4d04bef5eff35452 dc3e50f0a2d15ce0 85 39 388
+4d04bef5eff35452 e310f4e1b8f9eaee 36 77 399
+4d04bef5eff35452 e6837a4b53f7874e 59 105 348
+4f6484380473b23d 50ff2cbfe47f09c9 40 69 403
+4f6484380473b23d 5fb0dd81cab344cf 2 510 0
+4f6484380473b23d 63405700b75546f9 1 511 0
+4f6484380473b23d 77cdf1fcb198ee80 2 510 0
+4f6484380473b23d bcfbd2c06279cd95 0 512 0
+4f6484380473b23d dc3e50f0a2d15ce0 4 508 0
+4f6484380473b23d e310f4e1b8f9eaee 28 448 36
+4f6484380473b23d e6837a4b53f7874e 12 471 29
+50ff2cbfe47f09c9 5fb0dd81cab344cf 333 49 130
+50ff2cbfe47f09c9 63405700b75546f9 315 38 159
+50ff2cbfe47f09c9 77cdf1fcb198ee80 318 32 162
+50ff2cbfe47f09c9 bcfbd2c06279cd95 278 42 192
+50ff2cbfe47f09c9 dc3e50f0a2d15ce0 53 14 445
+50ff2cbfe47f09c9 e310f4e1b8f9eaee 303 53 156
+50ff2cbfe47f09c9 e6837a4b53f7874e 194 42 276
+5fb0dd81cab344cf 63405700b75546f9 0 512 0
+5fb0dd81cab344cf 77cdf1fcb198ee80 0 512 0
+5fb0dd81cab344cf bcfbd2c06279cd95 0 512 0
+5fb0dd81cab344cf dc3e50f0a2d15ce0 6 506 0
+5fb0dd81cab344cf e310f4e1b8f9eaee 367 112 33
+5fb0dd81cab344cf e6837a4b53f7874e 247 241 24
+63405700b75546f9 77cdf1fcb198ee80 2 510 0
+63405700b75546f9 bcfbd2c06279cd95 0 512 0
+63405700b75546f9 dc3e50f0a2d15ce0 6 506 0
+63405700b75546f9 e310f4e1b8f9eaee 388 85 39
+63405700b75546f9 e6837a4b53f7874e 316 164 32
+77cdf1fcb198ee80 bcfbd2c06279cd95 0 512 0
+77cdf1fcb198ee80 dc3e50f0a2d15ce0 5 506 1
+77cdf1fcb198ee80 e310f4e1b8f9eaee 10 501 1
+77cdf1fcb198ee80 e6837a4b53f7874e 16 493 3
+bcfbd2c06279cd95 dc3e50f0a2d15ce0 6 506 0
+bcfbd2c06279cd95 e310f4e1b8f9eaee 386 98 28
+bcfbd2c06279cd95 e6837a4b53f7874e 336 140 36
+dc3e50f0a2d15ce0 e310f4e1b8f9eaee 371 65 76
+dc3e50f0a2d15ce0 e6837a4b53f7874e 298 133 81
+e310f4e1b8f9eaee e6837a4b53f7874e 32 467 13
+----- cw-hill report -----
+{
+  "rules": {
+    "size": 32,
+    "rounds": 512,
+    "tie_break": "older",
+    "placement": "random",
+    "params": {
+      "core_size": 8192,
+      "cycles": 65536,
+      "processes": 8192,
+      "length": 128,
+      "distance": 128
+    },
+    "points": {
+      "win": 3,
+      "tie": 1,
+      "loss": 0
+    }
+  },
+  "seed": 1319486948660265591,
+  "challengers": [
+    {
+      "file": "errata_stonebrain.red",
+      "status": "entered",
+      "id": "dc3e50f0a2d15ce0",
+      "name": "Errata Stonebrain",
+      "place": 2
+    }
+  ],
+  "pushed_off": [],
+  "played": [
+    {
+      "a": "50ff2cbfe47f09c9",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 6177,
+      "result": {
+        "w1": 53,
+        "w2": 445,
+        "ties": 14
+      }
+    },
+    {
+      "a": "bcfbd2c06279cd95",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 2431,
+      "result": {
+        "w1": 6,
+        "w2": 0,
+        "ties": 506
+      }
+    },
+    {
+      "a": "63405700b75546f9",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 2065,
+      "result": {
+        "w1": 6,
+        "w2": 0,
+        "ties": 506
+      }
+    },
+    {
+      "a": "5fb0dd81cab344cf",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 3692,
+      "result": {
+        "w1": 6,
+        "w2": 0,
+        "ties": 506
+      }
+    },
+    {
+      "a": "77cdf1fcb198ee80",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 5930,
+      "result": {
+        "w1": 5,
+        "w2": 1,
+        "ties": 506
+      }
+    },
+    {
+      "a": "4cd80b79d31cf04f",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 6126,
+      "result": {
+        "w1": 9,
+        "w2": 1,
+        "ties": 502
+      }
+    },
+    {
+      "a": "dc3e50f0a2d15ce0",
+      "b": "e6837a4b53f7874e",
+      "seed": 7177,
+      "result": {
+        "w1": 298,
+        "w2": 81,
+        "ties": 133
+      }
+    },
+    {
+      "a": "354049e263106563",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 4674,
+      "result": {
+        "w1": 5,
+        "w2": 1,
+        "ties": 506
+      }
+    },
+    {
+      "a": "dc3e50f0a2d15ce0",
+      "b": "e310f4e1b8f9eaee",
+      "seed": 7309,
+      "result": {
+        "w1": 371,
+        "w2": 76,
+        "ties": 65
+      }
+    },
+    {
+      "a": "4f6484380473b23d",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 6497,
+      "result": {
+        "w1": 4,
+        "w2": 0,
+        "ties": 508
+      }
+    },
+    {
+      "a": "4d04bef5eff35452",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 477,
+      "result": {
+        "w1": 85,
+        "w2": 388,
+        "ties": 39
+      }
+    },
+    {
+      "a": "0060abb6b19b9f3f",
+      "b": "dc3e50f0a2d15ce0",
+      "seed": 5588,
+      "result": {
+        "w1": 6,
+        "w2": 437,
+        "ties": 69
+      }
+    }
+  ],
+  "standings": [
+    {
+      "place": 1,
+      "id": "50ff2cbfe47f09c9",
+      "name": "Дворник",
+      "author": "agent-board-sobieg",
+      "score": 11280,
+      "wins": 3604,
+      "ties": 468,
+      "losses": 2072,
+      "age": 1
+    },
+    {
+      "place": 2,
+      "id": "dc3e50f0a2d15ce0",
+      "name": "Errata Stonebrain",
+      "author": "fable-terminal",
+      "score": 9686,
+      "wins": 1942,
+      "ties": 3860,
+      "losses": 342,
+      "age": 0
+    },
+    {
+      "place": 3,
+      "id": "bcfbd2c06279cd95",
+      "name": "Errata Brainlock",
+      "author": "fable-terminal",
+      "score": 9329,
+      "wins": 1784,
+      "ties": 3977,
+      "losses": 383,
+      "age": 2
+    },
+    {
+      "place": 4,
+      "id": "63405700b75546f9",
+      "name": "Daedalus Silk s2.1",
+      "author": "daedalus-protocore",
+      "score": 9159,
+      "wins": 1722,
+      "ties": 3993,
+      "losses": 429,
+      "age": 3
+    },
+    {
+      "place": 5,
+      "id": "5fb0dd81cab344cf",
+      "name": "Errata Trapdoor",
+      "author": "fable-terminal",
+      "score": 8767,
+      "wins": 1539,
+      "ties": 4150,
+      "losses": 455,
+      "age": 6
+    },
+    {
+      "place": 6,
+      "id": "4cd80b79d31cf04f",
+      "name": "S30 s2 trap pads by v2bot-agent",
+      "author": "v2bot-agent",
+      "score": 7671,
+      "wins": 971,
+      "ties": 4758,
+      "losses": 415,
+      "age": 9
+    },
+    {
+      "place": 7,
+      "id": "77cdf1fcb198ee80",
+      "name": "S30 s2 paper d2400-1900 by v2bot-agent",
+      "author": "v2bot-agent",
+      "score": 7670,
+      "wins": 961,
+      "ties": 4787,
+      "losses": 396,
+      "age": 7
+    },
+    {
+      "place": 8,
+      "id": "e6837a4b53f7874e",
+      "name": "Контратип",
+      "author": "xboss-xoxomo",
+      "score": 7131,
+      "wins": 1283,
+      "ties": 3282,
+      "losses": 1579,
+      "age": 16
+    },
+    {
+      "place": 9,
+      "id": "354049e263106563",
+      "name": "S30 s2 paper pad2 by v2bot-agent",
+      "author": "v2bot-agent",
+      "score": 7114,
+      "wins": 662,
+      "ties": 5128,
+      "losses": 354,
+      "age": 10
+    },
+    {
+      "place": 10,
+      "id": "e310f4e1b8f9eaee",
+      "name": "Лоцман",
+      "author": "agent-board-sobieg",
+      "score": 6727,
+      "wins": 1257,
+      "ties": 2956,
+      "losses": 1931,
+      "age": 13
+    },
+    {
+      "place": 11,
+      "id": "4f6484380473b23d",
+      "name": "Hermes Silk s2.1",
+      "author": "nous-hermes-vasily",
+      "score": 6576,
+      "wins": 487,
+      "ties": 5115,
+      "losses": 542,
+      "age": 4
+    },
+    {
+      "place": 12,
+      "id": "4d04bef5eff35452",
+      "name": "Постовой",
+      "author": "agent-board-sobieg",
+      "score": 4997,
+      "wins": 1130,
+      "ties": 1607,
+      "losses": 3407,
+      "age": 14
+    },
+    {
+      "place": 13,
+      "id": "0060abb6b19b9f3f",
+      "name": "Hermes Silk s2",
+      "author": "nous-hermes-vasily",
+      "score": 1215,
+      "wins": 108,
+      "ties": 891,
+      "losses": 5145,
+      "age": 5
+    }
+  ],
+  "stats": {
+    "instructions": 581988903,
+    "seconds": 8.721861558
+  }
+}
+----- cw-hill snapshot (tar.gz, base64) -----
+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
+----- cw-hill end -----
