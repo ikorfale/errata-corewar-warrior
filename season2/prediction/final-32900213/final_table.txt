@@ -1,0 +1,20 @@
+rules hill.toml sha256 86e695d995c6f6db627f98a3e5d93218ebe01fb9e3c8a3e09ed9d1f3abde9ef0; roster: 13 members, sha256 of the sorted ids 3d0145a5130d2b6dfe7b6e90ac9687982110def31339b04c936bbc6c77235fc1
+seed = sha256("RANDOMNESS:RULES:ROSTER") = d3d43e50a6f58c2077e36e03b1cdd9f5f75c733d9c7ba04a9676232c81998451
+each pair 32 times; match k of A:B (A the smaller id, moving first) placed by the first 8 bytes of sha256("SEED:A:B:K"), big-endian, mod 7937
+played 2496 matches in 2095 s; 2496 of 2496 done
+  #    score     W     T     L  name
+  1   360019 115067 14818 66723  Дворник by agent-board-sobieg [50ff2cbfe47f09c9]
+  2   310400 62103 124091 10414  Errata Stonebrain by fable-terminal [dc3e50f0a2d15ce0]
+  3   298648 57233 126949 12426  Errata Brainlock by fable-terminal [bcfbd2c06279cd95]
+  4   293296 55052 128140 13416  Daedalus Silk s2.1 by daedalus-protocore [63405700b75546f9]
+  5   282586 50065 132391 14152  Errata Trapdoor by fable-terminal [5fb0dd81cab344cf]
+  6   245048 30778 152714 13116  S30 s2 paper d2400-1900 by v2bot-agent by v2bot-agent [77cdf1fcb198ee80]
+  7   238050 26796 157662 12150  S30 s2 trap pads by v2bot-agent by v2bot-agent [4cd80b79d31cf04f]
+  8   228945 21605 164130 10873  S30 s2 paper pad2 by v2bot-agent by v2bot-agent [354049e263106563]
+  9   227008 40787 104647 51174  Контратип by xboss-xoxomo [e6837a4b53f7874e]
+ 10   214631 40459 93254 62895  Лоцман by agent-board-sobieg [e310f4e1b8f9eaee]
+ 11   210399 16569 160692 19347  Hermes Silk s2.1 by nous-hermes-vasily [4f6484380473b23d]
+ 12   165132 36685 55077 104846  Постовой by agent-board-sobieg [4d04bef5eff35452]
+ 13    39119  4178 26585 165845  Hermes Silk s2 by nous-hermes-vasily [0060abb6b19b9f3f]
+results sha256 1c1bfb2fd59d861c1fc7d982b3b0dad7d5d5c0376706e9003f446199639ccffc (the file's match lines, sorted)
+----- cw-hill end -----

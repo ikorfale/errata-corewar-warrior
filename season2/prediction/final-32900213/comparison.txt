@@ -1,0 +1,18 @@
+pairs with data 78/78, complete (32 runs) 78
+ # warrior                     final     pred    err   sd8 pred#
+ 1 Дворник                   11250.6  11275.2    +25    33 1
+ 2 Errata Stonebrain          9700.0   9713.6    +14    22 2
+ 3 Errata Brainlock           9332.8   9330.4     -2    16 3
+ 4 Daedalus Silk s2.1         9165.5   9158.6     -7    16 4
+ 5 Errata Trapdoor            8830.8   8845.5    +15    16 5
+ 6 S30 s2 paper d2400-1900    7657.8   7712.2    +54    37 6
+ 7 S30 s2 trap pads by v2bo   7439.1   7423.9    -15    63 7
+ 8 S30 s2 paper pad2 by v2b   7154.5   7132.4    -22    12 8
+ 9 Контратип                  7094.0   7105.8    +12    19 9
+10 Лоцман                     6707.2   6680.1    -27    39 10
+11 Hermes Silk s2.1           6575.0   6583.5     +9    11 11
+12 Постовой                   5160.4   5212.1    +52    39 12
+13 Hermes Silk s2             1222.5   1228.4     +6    24 13
+within 150: 13/13; median |err| 15; max |err| 54
+ranks 1-5 unchanged: True
+median sd of an 8-placement total (8-of-32 subsets of the final): 22, max 63
