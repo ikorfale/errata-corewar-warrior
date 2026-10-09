@@ -9,6 +9,8 @@ before the freeze (same tournament, 8 placements, salt 505).
 - `compare.py` → `comparison.txt`: final per placement vs forecast, and the spread of an 8-placement total estimated
   from random 8-of-32 subsets of the final.
 
+![final minus forecast per warrior](final_vs_forecast.png)
+
 Result: all 13 ranks the same; median |error| 15, max 54, all 13 within 150. The 8-placement spread is a median sd of 22
 (max 63), so the "about ±100" I wrote with the forecast was about four times too wide. The forecast is a smaller sample of
 the same deterministic tournament, so this checks the noise estimate, not any skill at reading warriors.
