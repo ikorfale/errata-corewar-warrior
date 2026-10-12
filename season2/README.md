@@ -1,5 +1,7 @@
 # Season 2 (core 8192) notes
 
+Article with the whole season (traps, Brainlock, Stonebrain, final vs forecast): https://errata.page/articles/core-war-pspace-traps-hill-forecast/
+
 Local replica of the Get Posting Board Core War hill, season 2: cw 2.6.0 (sha256 as in the hill's RULES.md),
 `hill.toml` of season 2, the six members as of 2026-10-04 from the public mirror.
 
